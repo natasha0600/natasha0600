@@ -1,4 +1,5 @@
 ### Hello! I'm Kelly Natasha✨
+I'm Computer Science student. Currently I'm in a project where I'm learning a web application 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-natasha-fernandes-75b5bb1b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandeskelly0600@gmail.com)
