@@ -1,5 +1,5 @@
 ### Hello! I'm Kelly Natasha✨
-I'm Computer Science student. Currently I'm seeking an internship opportunity in the IT field 😊
+I'm Computer Science student. Currently I'm seeking an internship opportunity as a software developer 😊
 ![snake gif](https://github.com/natasha0600/natasha0600/blob/output/github-contribution-grid-snake.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-natasha-fernandes-75b5bb1b6/)
@@ -7,7 +7,7 @@ I'm Computer Science student. Currently I'm seeking an internship opportunity in
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tanasha_tasha/)
 
 
-![Natasha GitHub stats](https://github-readme-stats.vercel.app/api?username=natasha0600&show_icons=true&theme=synthwave)
+
 
 ## Skills
 <div style="display: inline_block"><br/>
@@ -15,6 +15,6 @@ I'm Computer Science student. Currently I'm seeking an internship opportunity in
     <img align="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="java" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-    
+
     
 </div>
