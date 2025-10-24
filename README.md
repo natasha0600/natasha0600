@@ -1,5 +1,5 @@
 ### Hello! I'm Kelly Natasha✨
-I'm Computer Science student. Currently I'm seeking an internship opportunity as a software developer 😊
+I'm Computer Science student. Currently I'm seeking an opportunity as a software developer 😊
 ![snake gif](https://github.com/natasha0600/natasha0600/blob/output/github-contribution-grid-snake.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-natasha-fernandes-75b5bb1b6/)
